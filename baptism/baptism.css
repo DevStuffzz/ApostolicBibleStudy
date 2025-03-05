@@ -1,0 +1,17 @@
+
+
+body {
+    background-image: url("background.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+h1 {
+    color: antiquewhite;
+}
+
+.welcome {
+    background-color: rgba(240, 248, 255, 0.512);
+}
